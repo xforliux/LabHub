@@ -1,0 +1,16 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.9",
+    "@types/node": "^14.14.20",
+    "typescript": "^4.1.3"
+  }
+}
